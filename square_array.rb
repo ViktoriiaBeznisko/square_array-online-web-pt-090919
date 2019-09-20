@@ -10,6 +10,6 @@ def square_array(numbers)
 #end
 
 #square_array(numbers)
-numbers.each {|number| ** 2}
+numbers.each {|number| numbers ** 2}
 
 end
