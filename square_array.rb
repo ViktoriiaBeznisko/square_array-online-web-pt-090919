@@ -9,7 +9,7 @@ def square_array(array)
 #new_array
 #end
 
-counter = 0
-array.each {|number| array[counter] ** 2}
+#counter = 0
+array.each {|number| array ** 2}
 
 end
