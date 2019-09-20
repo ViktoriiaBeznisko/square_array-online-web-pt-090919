@@ -10,6 +10,6 @@ def square_array(numbers)
 #end
 new_numbers =[]
 numbers.each {|num| numbers << num ** 2}
-counter += 1
 end
-
+new_numbers
+end
