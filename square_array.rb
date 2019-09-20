@@ -13,4 +13,3 @@ counter = 0
 array.each {|number| array ** 2}
 counter += 1
 end
-end
