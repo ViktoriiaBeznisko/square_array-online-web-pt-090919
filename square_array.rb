@@ -13,3 +13,5 @@ counter = 0
 numbers.each {|number| numbers ** 2}
 counter += 1
 end
+
+end
