@@ -1,4 +1,4 @@
-def square_array(array)
+def square_array(numbers)
 #  new_array = []
  # counter = 0
   
@@ -9,7 +9,7 @@ def square_array(array)
 #new_array
 #end
 
-square_array(numbers)
+#square_array(numbers)
 array.each {|number| array ** 2}
 
 end
